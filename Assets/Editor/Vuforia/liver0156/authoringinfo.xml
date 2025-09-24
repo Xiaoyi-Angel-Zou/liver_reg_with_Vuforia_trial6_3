@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="liver156" targetId="f61fdf9790dd45be9bca297a2638fe88" version="14.0" toolVersion="v7.3.1" bbox="-0.102102 -0.080250 -0.056182 0.056738 0.080978 0.063433" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="liver156" assemblyId="aef813a8691e443f94fadbaaa30d4174">
+        <Part name="liver156" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

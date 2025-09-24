@@ -1,0 +1,32 @@
+# Unity auto-generated folders (always ignore)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]in/
+[Ll]ogs/
+MemoryCaptures/
+
+# IDE/VS/Rider
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Keep only these roots tracked
+!Assets/
+!Packages/
+!ProjectSettings/
+!UserSettings/
